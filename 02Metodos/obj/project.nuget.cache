@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu+LsEU01NiKjKOxuvsfZzrm9emK7xZ7iGrQJtn1Ugr+oG9PqsGPFC6p3zDGy8bVYPRhixdgc0RC4FodPebX+Q==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/02Metodos.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

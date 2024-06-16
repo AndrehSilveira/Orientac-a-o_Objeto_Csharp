@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4ertsdwvnstfeXNyNpo535Qre9at2xBD56Fa83fQaIe6PW1nGWn3lQWpcgBjqvSyZaw82Fsb/dXip/m/N8ERw==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/04ExercicioIMC.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

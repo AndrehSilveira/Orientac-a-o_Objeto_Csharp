@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/bin/Debug/net8.0/11Polimorfirsmo
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/bin/Debug/net8.0/11Polimorfirsmo.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/bin/Debug/net8.0/11Polimorfirsmo.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/bin/Debug/net8.0/11Polimorfirsmo.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/bin/Debug/net8.0/11Polimorfirsmo.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/refint/11Polimorfirsmo.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/11Polimorfirsmo.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/11Polimorfirsmo/obj/Debug/net8.0/ref/11Polimorfirsmo.dll

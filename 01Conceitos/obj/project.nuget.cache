@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dQK5dkisOY3StLGww9xR+j5/6ju2t7Ii2RpMBWjsMKQbJVUR1wxItZt6J2rIuEy58dY0AUs4Vf7+wBWpywCtA==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/01Conceitos.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

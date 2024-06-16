@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/bin/Debug/net8.0/10Herança
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/bin/Debug/net8.0/10Herança.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/bin/Debug/net8.0/10Herança.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/bin/Debug/net8.0/10Herança.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/bin/Debug/net8.0/10Herança.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/refint/10Herança.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/10Herança.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/10Herança/obj/Debug/net8.0/ref/10Herança.dll

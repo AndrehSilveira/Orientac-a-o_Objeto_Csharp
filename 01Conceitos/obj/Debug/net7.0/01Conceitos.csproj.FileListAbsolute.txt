@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/bin/Debug/net7.0/01Conceitos
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/bin/Debug/net7.0/01Conceitos.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/bin/Debug/net7.0/01Conceitos.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/bin/Debug/net7.0/01Conceitos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/bin/Debug/net7.0/01Conceitos.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/refint/01Conceitos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/01Conceitos.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/01Conceitos/obj/Debug/net7.0/ref/01Conceitos.dll

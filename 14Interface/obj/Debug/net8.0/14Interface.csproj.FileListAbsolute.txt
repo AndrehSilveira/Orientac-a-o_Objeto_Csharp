@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/bin/Debug/net8.0/14Interface
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/bin/Debug/net8.0/14Interface.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/bin/Debug/net8.0/14Interface.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/bin/Debug/net8.0/14Interface.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/bin/Debug/net8.0/14Interface.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/refint/14Interface.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/14Interface.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/14Interface/obj/Debug/net8.0/ref/14Interface.dll

@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/refint/03ExercicioEscolar.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/obj/Debug/net7.0/ref/03ExercicioEscolar.dll

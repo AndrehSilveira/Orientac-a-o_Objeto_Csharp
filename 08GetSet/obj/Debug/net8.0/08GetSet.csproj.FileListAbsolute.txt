@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/bin/Debug/net8.0/08GetSet
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/bin/Debug/net8.0/08GetSet.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/bin/Debug/net8.0/08GetSet.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/bin/Debug/net8.0/08GetSet.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/bin/Debug/net8.0/08GetSet.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/refint/08GetSet.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/08GetSet.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/08GetSet/obj/Debug/net8.0/ref/08GetSet.dll

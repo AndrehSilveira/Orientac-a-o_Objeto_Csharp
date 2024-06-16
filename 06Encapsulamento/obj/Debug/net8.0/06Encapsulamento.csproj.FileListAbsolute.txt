@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/refint/06Encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/06Encapsulamento/obj/Debug/net8.0/ref/06Encapsulamento.dll

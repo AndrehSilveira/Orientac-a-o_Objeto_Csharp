@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/bin/Debug/net8.0/13Abstração
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/bin/Debug/net8.0/13Abstração.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/bin/Debug/net8.0/13Abstração.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/bin/Debug/net8.0/13Abstração.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/bin/Debug/net8.0/13Abstração.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/refint/13Abstração.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/13Abstração.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/13Abstração/obj/Debug/net8.0/ref/13Abstração.dll

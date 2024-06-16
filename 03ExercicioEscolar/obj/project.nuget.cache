@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnjdBUrlfrVnj2yBuSrqN/tASgYBDo2OyfmUcCG9gxYk+m1lSve8QW4vnu82/PDLtt4TquNw/zcF3D4TDTYWiQ==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/03ExercicioEscolar/03ExercicioEscolar.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

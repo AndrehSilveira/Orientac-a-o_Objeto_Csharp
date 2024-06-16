@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/refint/04ExercicioIMC.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/04ExercicioIMC/obj/Debug/net7.0/ref/04ExercicioIMC.dll

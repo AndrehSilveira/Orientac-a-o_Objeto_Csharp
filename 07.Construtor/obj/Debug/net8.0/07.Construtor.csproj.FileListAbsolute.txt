@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/bin/Debug/net8.0/07.Construtor
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/bin/Debug/net8.0/07.Construtor.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/bin/Debug/net8.0/07.Construtor.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/bin/Debug/net8.0/07.Construtor.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/bin/Debug/net8.0/07.Construtor.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/refint/07.Construtor.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/07.Construtor.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/07.Construtor/obj/Debug/net8.0/ref/07.Construtor.dll

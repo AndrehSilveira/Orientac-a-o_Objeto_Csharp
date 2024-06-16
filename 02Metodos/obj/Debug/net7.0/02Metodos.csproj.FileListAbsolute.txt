@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/bin/Debug/net7.0/02Metodos
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/bin/Debug/net7.0/02Metodos.deps.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/bin/Debug/net7.0/02Metodos.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/bin/Debug/net7.0/02Metodos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/bin/Debug/net7.0/02Metodos.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/refint/02Metodos.dll
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.pdb
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/02Metodos.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Orientação_Objeto_Csharp/02Metodos/obj/Debug/net7.0/ref/02Metodos.dll
